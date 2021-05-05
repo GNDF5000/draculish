@@ -1,0 +1,21 @@
+{
+    "name": "moja",
+    "displayName": "moja",
+    "description": "moja theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "moja",
+                "uiTheme": "vs-dark",
+                "path": "./themes/moja-color-theme.json"
+            }
+        ]
+    }
+}
