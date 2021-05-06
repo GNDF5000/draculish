@@ -52,7 +52,7 @@
     "activityBarBadge.foreground": "#1D2025",
     "activityBar.activeBorder": "#1D2025",
     "activityBar.activeFocusBorder": "#1D2025",
-		"activityBar.inactiveForeground": "#5f5564",
+    "activityBar.inactiveForeground": "#5f5564",
     "sideBar.background": "#1D2025",
     "sideBar.foreground": "#b8b0b0",
     "sideBar.border": "#1D2025",
