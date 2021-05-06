@@ -14,17 +14,17 @@
       {
         "label": "moja",
         "uiTheme": "vs-dark",
-        "path": "./themes/moja.json"
+        "path": "./themes/moja-color-theme.json"
       },
       {
         "label": "moja neutral",
         "uiTheme": "vs-dark",
-        "path": "./themes/moja-neutral.json"
+        "path": "./themes/moja-neutral-color-theme.json"
       },
       {
         "label": "moja bordered",
         "uiTheme": "vs-dark",
-        "path": "./themes/moja-bordered.json"
+        "path": "./themes/moja-bordered-color-theme.json"
       }
     ]
   }
