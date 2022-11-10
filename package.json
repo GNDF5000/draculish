@@ -14,7 +14,7 @@
       {
         "label": "draculish",
         "uiTheme": "vs-dark",
-        "path": "./themes/draculish-neutral-color-theme.json"
+        "path": "./themes/draculish-color-theme.json"
       }
     ]
   }
