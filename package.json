@@ -1,8 +1,8 @@
 {
-  "name": "moja",
-  "displayName": "moja",
-  "description": "moja theme",
-  "version": "0.0.1",
+  "name": "draculish",
+  "displayName": "Draculish",
+  "description": "Flat pale dracula based theme for all day/night coding",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.46.0"
   },
