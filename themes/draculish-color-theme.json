@@ -101,7 +101,7 @@
     "editorCodeLens.foreground": "#5c6773",
     "editorBracketMatch.background": "#707a8c4d",
     "editorBracketMatch.border": "#707a8c99",
-    "editorOverviewRuler.border": "#141824",
+    "editorOverviewRuler.border": "#1D2025",
     "editorOverviewRuler.modifiedForeground": "#77a8d999",
     "editorOverviewRuler.addedForeground": "#a6cc7099",
     "editorOverviewRuler.deletedForeground": "#f2798399",
