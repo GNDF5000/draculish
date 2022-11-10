@@ -12,19 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "moja",
+        "label": "draculish",
         "uiTheme": "vs-dark",
-        "path": "./themes/moja-color-theme.json"
-      },
-      {
-        "label": "moja neutral",
-        "uiTheme": "vs-dark",
-        "path": "./themes/moja-neutral-color-theme.json"
-      },
-      {
-        "label": "moja bordered",
-        "uiTheme": "vs-dark",
-        "path": "./themes/moja-bordered-color-theme.json"
+        "path": "./themes/draculish-neutral-color-theme.json"
       }
     ]
   }
