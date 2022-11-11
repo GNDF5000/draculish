@@ -1,13 +1,22 @@
-# README
-## This is the README for your extension "moja"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Draculish Theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Draculish](./images/draculishss.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> Font: [Jet Brains Mono](https://www.jetbrains.com/lp/mono/)
 
-**Enjoy!**
+## About
+
+Flat and semi-pale dark theme mostly based on Dracula & Flate. Optimized for React with Typescript.
+
+## Features
+
+- Flat UI
+- Perfect background color
+- Accent colors mostly based on dracula palette
+- Optimized for React with Typescript
+
+## Installation
+
+1. Open **Extensions** sidebar panel in Visual Studio Code.
+2. Search for `Draculish`.
+3. Click **Install** to install it.
