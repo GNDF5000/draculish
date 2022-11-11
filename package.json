@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "draculish",
+        "label": "Draculish",
         "uiTheme": "vs-dark",
         "path": "./themes/draculish-color-theme.json"
       }
