@@ -3,6 +3,19 @@
   "displayName": "Draculish",
   "description": "Flat pale dracula based theme for all day/night coding",
   "version": "1.0.0",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GNDF5000/draculish"
+  },
+  "publisher": "gndf5000",
+  "keywords": [
+    "theme",
+    "draculish",
+    "dracula",
+    "flat",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.46.0"
   },
